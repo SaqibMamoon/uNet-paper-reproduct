@@ -1,6 +1,6 @@
 # uNet-parper-reprodct
 
-This custom designed U-Net achitecture shows generalisability when applied to 2 different semantic segmentation tasks. It can segment the both datasets, separateley, without human interaction. 
+A custom designed U-Net achitecture shows generalisability when applied to 2 different semantic segmentation tasks. It can segment the both datasets, separateley, without human interaction.
 
 The architecture is defined accourding to U-net architecture paradigm (Ronneberger et al., 2015)
 https://arxiv.org/abs/1505.04597
