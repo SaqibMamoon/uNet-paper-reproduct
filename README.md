@@ -10,9 +10,13 @@ http://medicaldecathlon.com, Paper on the dataset: ttps://arxiv.org/abs/1902.090
 # Cardiac Dataset. The dice score of resulted U-net on unseen data is 80-84%
 
 Target: Left Atrium
+
 Modality: Mono-modal MRI  
+
 Size: 30 3D volumes (20 Training + 10 Testing)
+
 Source: King’s College London
+
 Challenge: Small training dataset with large variability
 
 # Spleen Dataset The dice score of resulted U-net on unseen data is 79-91%.
