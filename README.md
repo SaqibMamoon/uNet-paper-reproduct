@@ -18,7 +18,11 @@ Challenge: Small training dataset with large variability
 # Spleen Dataset The dice score of resulted U-net on unseen data is 79-91%.
 
 Target: Spleen
+
 Modality: CT  
+
 Size: 61 3D volumes (41 Training + 20 Testing)
+
 Source: Memorial Sloan Kettering Cancer Center
+
 Challenge: Large ranging foreground size
