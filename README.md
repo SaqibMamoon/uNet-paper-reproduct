@@ -1,6 +1,6 @@
 # uNet-parper-reprodct
 
-#### NOTE: THE JUPITER NOTEBOOKS CAN BA ALSO ACCESSED WITH GOOGLE COLAB LINKS PROVIDED BELOW ####
+#### NOTE: THE JUPITER NOTEBOOKS CAN ALSO BE ACCESSED WITH GOOGLE COLAB LINKS PROVIDED BELOW ####
 
 A custom designed U-Net achitecture shows generalisability when applied to 2 different semantic segmentation tasks. It can segment the both datasets, separateley, without human interaction.
 
